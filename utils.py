@@ -5,3 +5,5 @@ def load_data_from_json(path):
         data = json.load(file)
         return data
 
+
+
